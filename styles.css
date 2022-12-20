@@ -1,2 +1,52 @@
 
 /* Your CSS Code here. */
+td,th{
+    width:80px;
+    height:10px;
+    
+         
+}
+
+body{
+    margin-top: 50px;
+}
+
+table ,td,th{
+    border:2px solid black;
+    border-collapse: collapse;
+     
+}
+
+td{
+   padding-right: 15px;
+}
+
+th{
+    text-align: left;
+    padding-right: 30px;
+}
+
+.color1{
+    background-color: rgb(201, 81, 105);
+    color: white;
+    
+    
+}
+
+.color2{
+    background-color:rgb(245, 210, 221) ;
+    color:white;
+    
+    
+}
+
+.color3{
+    background-color:rgb(239, 183, 183);
+    color: black;
+}
+
+.color4{
+    background-color:rgb(215, 227, 244) ;
+    color: black;
+}
+
