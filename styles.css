@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+th , td{
+    width:10%;
+    text-align: center;
+    padding:8px;
+    
+}
+th{
+    background-color: lightcoral;
+}
+td{
+    background-color: #ddd;
+}
